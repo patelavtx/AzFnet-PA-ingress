@@ -1,0 +1,26 @@
+azspoke1:
+  account: AZ-proj
+  cloud: Azure
+  name: azspoke84
+  region: UK South
+  cidr: 10.84.0.0/16
+  ha_gw: false
+  insane_mode: false
+  instance_size: Standard_B2s
+  #network_domain: netdomain1
+  transit_gw: aztransit184-uks
+  subnet_pairs: 2
+
+
+#azspoke2:
+#  account: AZ-proj
+#  cloud: Azure
+#  name: azspoke74
+#  region: West Europe
+#  cidr: 10.74.0.0/16
+#  ha_gw: false
+#  insane_mode: false
+#  instance_size: Standard_B1ms
+  #network_domain: netdomain2
+#  transit_gw: aztransit184-uks
+#  subnet_pairs: 2
