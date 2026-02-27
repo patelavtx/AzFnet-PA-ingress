@@ -1,6 +1,13 @@
 # AzFnet-PA-ingress
 
 
+- Setup Aviatrix Transit Firenet
+- Test out Centralized Egress
+- Test out Ingress 
+
+
+
+
 ## Example of TFVARS
 
 ```
